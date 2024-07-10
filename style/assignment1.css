@@ -148,4 +148,12 @@ main
 
 
 /* footer */
-
+.footerimg{
+   /* margin: 180px ; */
+   /* padding: 40px; */
+   align-items: center;
+   width: 1440px;
+   height: 5245px;
+   border-radius: 25px;
+   padding: 64px 48px 64px 48px;
+}
