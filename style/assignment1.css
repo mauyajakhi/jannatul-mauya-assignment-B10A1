@@ -44,28 +44,28 @@
     
 }
 
-/* main */
+main
 
-.why-we-development{
+ /* .why-we-development{
     background-color: rgba(13, 19, 33, 0.02) ;
     text-align: center;
     align-items: center;
     padding: 0px;
-}
+} */
 
-.header-why{
+/* .header-why{
     font-size: 40px;
     padding-top: 80px;
 
-}
+} */
 
-.content-why{
+/* .content-why{
     display: flex;
     flex-direction: column;
     justify-content:flex-start
-}
+} */ */
 
-.why-section{
+/* /* .why-section{
    border: none;
 }
 
@@ -78,11 +78,74 @@
 }
 
 .div-1{
+    flex-direction: column; 
+} */
+
+
+/* new */
+
+.parent{
+    /* max-width: 0px auto; */
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(13, 19, 33, 0.02);
+    margin: 80px ;
+}
+.parent-2nd-child{
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(13, 19, 33, 0.02);
+    margin: 80px ;
+}
+
+.child-4, .child-2, .child-3, .btn[display]]{
+    display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    
+
+    
+}
+
+.header2{
+    font-size: 40px ;
+}
+
+.btn, .a{
+    text-decoration: none;
+    
+}
+
+.child-2, .child-3, .child-4, .not-img[display] {
+        display: block;
+}
+
+
+
+/*  vedio part */
+
+.vedio-part{
+    text-align: center;
+    margin: ;
+    font-size: 40px;
+    font-weight: 300px;
+}
+
+.My-inspiration-content{
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.vedio-border{
+    border-radius: 16px;
+    padding: 32px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
 }
 
 
 
 
+/* footer */
 
- 
