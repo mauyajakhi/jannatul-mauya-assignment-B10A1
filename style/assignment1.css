@@ -6,8 +6,6 @@
     height: 136px; */
     align-items: center;
     padding: 0px;
-    /* margin: 24px 0px; */
-    max-width: 1140px;
     margin: 0 auto;    
     background-image: url('../assets/Hero-bg.png');
     margin: 131px 0px ;
@@ -45,3 +43,22 @@
     margin: 32px 44px ;
     
 }
+
+/* main */
+
+.why{
+    background-color: rgba(13, 19, 33, 0.02) ;
+    text-align: center;
+    align-items: center;
+    padding: 0px;
+    
+}
+
+.background{
+   border: none;
+}
+
+
+
+
+ 
