@@ -2,15 +2,26 @@
 #hero{
     /* display: flex; */
     text-align: center;
-    width: 998px;
-    height: 136px;
+    /* width: 998px;
+    height: 136px; */
     align-items: center;
     padding: 0px;
     /* margin: 24px 0px; */
     max-width: 1140px;
     margin: 0 auto;    
+    background-image: url('../assets/Hero-bg.png');
+    margin: 131px 0px ;
 }
 
+.heder-up-pic{
+    margin: 26px 386px ;
+}
+#header{
+    /* margin-top: 100px; */
+    font-size:48px;
+    font-weight:800px;
+
+}
 #hero{
     /* background-image: url('../assets/Hero-bg.png');
     position: absolute;
@@ -19,7 +30,7 @@
 }
 
 .section-decription{
-    margin-top: ;
+    margin:24px 0 ;
 }
 
 .btn-bg{
@@ -31,6 +42,6 @@
     text-align: center;
     padding: 21px 24px;
     border: none;
-    margin-top: 32px;
+    margin: 32px 44px ;
     
 }
